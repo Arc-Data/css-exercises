@@ -1,0 +1,19 @@
+.odd {
+	background: hsl(0, 100%, 90%);
+	font: Verdana, sans-serif;
+}
+
+#second {
+	font-size: 36px;
+	color: blue;
+}
+
+.third,
+#fourth {
+	font-size: 24px;
+}
+
+#fourth {
+	background: hsl(120, 100%, 90%);
+	font-weight: bold;
+}
